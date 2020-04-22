@@ -10,7 +10,7 @@ socialImage: "/media/skylogs.png"
 
 Skylogs es un proyecto que construí después de certificarme como paracaidista. Construido con expo y react native para android y ios.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/skylogs.png)
+![Appicon de skylogs](/media/skylogs.png)
 
 Skylogs es un logbook digital para paracaidistas en el que puedes documentar tus saltos. Se guarda la ubicación, fecha, altura, tiempo, equipo y más. También permite que otros paracaidistas firmen tu salto para hacerlo oficial. Además, puedes revisar tus estadísticas personales, cuanto tiempo haz caído, cuantos pies, tu equipo favorito, cuantas veces haz tenido que abrir reserva y tu licencia. 
 
