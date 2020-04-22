@@ -252,16 +252,6 @@ exports[`IndexTemplate renders correctly 1`] = `
               <span
                 className="feed__item-meta-divider"
               />
-              <span
-                className="feed__item-meta-category"
-              >
-                <a
-                  className="feed__item-meta-category-link"
-                  href="/test"
-                >
-                  test
-                </a>
-              </span>
             </div>
             <h2
               className="feed__item-title"
@@ -300,16 +290,6 @@ exports[`IndexTemplate renders correctly 1`] = `
               <span
                 className="feed__item-meta-divider"
               />
-              <span
-                className="feed__item-meta-category"
-              >
-                <a
-                  className="feed__item-meta-category-link"
-                  href="/test"
-                >
-                  test
-                </a>
-              </span>
             </div>
             <h2
               className="feed__item-title"

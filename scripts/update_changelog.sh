@@ -19,10 +19,8 @@ else
   REPO=$2
 fi
 
-NEW_TAG=$1
 CURRENT_DATE=$(date +"%Y-%m-%d")
 
-LAST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))
 LAST_DATE=$(git log -1 --format=%ai $LAST_TAG)
 
 CHANGES=$(curl -s "https://api.github.com/repos/${REPO}/pulls?state=closed" | \

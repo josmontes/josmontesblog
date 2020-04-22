@@ -19,24 +19,14 @@ else
   REPO=$1
 fi
 
-if [ -z "$2" ]
-then
-  TAG=$(git describe --tags $(git rev-list --tags --max-count=1))
-else
-  TAG=$2
-fi
 
-BODY=$(awk "/$TAG/ {print; exit}" RS="\n\n" ORS="\n\n" CHANGELOG.md | tail -n+2)
+BODY=$(awk "/{print; exit}" RS="\n\n" ORS="\n\n" CHANGELOG.md | tail -n+2)
 
 PAYLOAD=$(
   jq --null-input \
-     --arg t "$TAG" \
-     --arg n "$TAG" \
      --arg b "$BODY" \
-     '{ tag_name: $t, name: $n, body: $b}'
+     '{ name: $n, body: $b}'
 )
-
-TAG_ID=$(curl -s "https://api.github.com/repos/$REPO/releases/tags/$TAG" | jq -r '.id')
 
 curl --fail \
      --netrc \
@@ -44,4 +34,4 @@ curl --fail \
      --location \
      --request PATCH \
      --data "$PAYLOAD" \
-     "https://api.github.com/repos/${REPO}/releases/${TAG_ID}"
+     "https://api.github.com/repos/${REPO}/releases/"

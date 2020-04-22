@@ -3,47 +3,33 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Jos Montes',
+  subtitle: 'Un portafolio de proyectos personales y de trabajo para poderlos compartir.',
+  copyright: 'Jos Montes. Todos los derechos reservados.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 3,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Proyectos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Acerca de mi',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Jos Montes',
+    photo: './logo.png',
+    bio: 'Un portafolio de proyectos personales y de trabajo para poderlos compartir.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'jo.montese@gmail.com',
+      facebook: 'https://www.facebook.com/jos.montes.98',
+      twitter: 'https://twitter.com/josmontese',
+      linkedin: 'https://www.linkedin.com/in/jose-andres-montes/',
+      instagram: 'https://www.instagram.com/josmontese',
     }
   }
 };

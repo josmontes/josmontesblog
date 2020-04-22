@@ -1,13 +1,13 @@
 ---
-title: "About me"
+title: "Acerca de mi"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/skylogs.png"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Soy Jos Montes, aprendí a programar por mi cuenta y siempre estoy aprendiendo nuevas tecnologías y tomando nuevos proyectos, si quieres que trabajemos juntos, o tienes algún proyecto con el que quisieras ayuda, no dudes en contactarme
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Skylogs fue mi primer app publicada tanto en google play store como en apple app store.](/media/skylogs.png)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*Skylogs fue mi primer app publicada tanto en google play store como en apple app store..*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Este es un trabajo en desarrollo, hice este blog para poder compartir mis proyectos y para forzarme a continuar construyendo, gracias por visitar!
