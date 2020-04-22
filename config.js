@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'http://www.josmontes.com/',
   pathPrefix: '/',
   title: 'Jos Montes',
   subtitle: 'Un portafolio de proyectos personales y de trabajo para poderlos compartir.',
