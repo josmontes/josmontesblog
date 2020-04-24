@@ -8,7 +8,7 @@ description: "Skylogs es mi primer app publicada. Un logbook digital para paraca
 socialImage: "/media/skylogs.png"
 ---
 
-Skylogs es un proyecto que construí después de certificarme como paracaidista. Construido con expo y react native para android y ios.
+Skylogs es un proyecto que construí después de certificarme como paracaidista. Construido con expo y react native para android e ios.
 
 ![Appicon de skylogs](/media/skylogs.png)
 
@@ -16,6 +16,6 @@ Skylogs es un logbook digital para paracaidistas en el que puedes documentar tus
 
 Skylogs fue mi primer aplicación publicada y todavía sigo agregando nuevas funciones y arreglando todas las fallas que lleguen a surgir. 
 
-[Google Play Store](#)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.josmontes.skylogs)
 
-[App Store](#)
+[App Store](https://apps.apple.com/mx/app/skylogs/id1508771246?l=en)
