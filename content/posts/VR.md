@@ -5,7 +5,6 @@ template: "post"
 draft: true
 slug: "skylogs"
 description: "Skylogs was my first published app. A digital logbook for skydivers."
-socialImage: "/media/skylogs.png"
 ---
 Skylogs was a project I developed after getting my skydiving certification. Built with Expo and React Native for both Android and iOS.
 

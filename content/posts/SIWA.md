@@ -5,7 +5,6 @@ template: "post"
 draft: true
 slug: "siwa"
 description: "SIWA was my first published app. A digital logbook for skydivers."
-socialImage: "/media/siwa.png"
 ---
 SIWA was a project I developed after getting my skydiving certification. Built with Expo and React Native for both Android and iOS.
 
