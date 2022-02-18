@@ -1,13 +1,8 @@
 ---
-title: "Acerca de mi"
+title: "About me"
 template: "page"
 socialImage: "/media/skylogs.png"
 ---
+I'm Jos Montes, I learned to program on my own. I'm always learning about new technologies and taking on new challenges. If you'd like to chat or work together, don't hesitate to call me.
 
-Soy Jos Montes, aprendí a programar por mi cuenta y siempre estoy aprendiendo nuevas tecnologías y tomando nuevos proyectos, si quieres que trabajemos juntos, o tienes algún proyecto con el que quisieras ayuda, no dudes en contactarme
-
-![Skylogs fue mi primer app publicada tanto en google play store como en apple app store.](/media/skylogs.png)
-
-*Skylogs fue mi primer app publicada tanto en google play store como en apple app store..*
-
-Este es un trabajo en desarrollo, hice este blog para poder compartir mis proyectos y para forzarme a continuar construyendo, gracias por visitar!
+This site is a work in progress, I made it to share my projects and to hold me accountable and force me to continue building, thanks for visiting!
