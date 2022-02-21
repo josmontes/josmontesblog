@@ -1,15 +1,18 @@
 ---
 title: SIWA
-date: "2020-04-22T23:46:37.121Z"
+date: "2022-01-22T21:26:17.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "siwa"
-description: "SIWA was my first published app. A digital logbook for skydivers."
+description: "A hotel management solution from the ground up."
 ---
-SIWA was a project I developed after getting my skydiving certification. Built with Expo and React Native for both Android and iOS.
+I joined KMND in november of 2021. KMND is a software developing company. My first assignment was to interview the client, design a fullstack solution for him, negotiate budget and implement it.
 
-![Appicon de siwa](/media/siwa.png)
+As a developer, I found out I needed to improve my people skills as much as my programming skills, so this challenge was a great opportunity for this. The client is currently building an apartment complex called SIWA in a Mexican beach, but he wanted to be able to manage it as a hotel, not only this, but he also wanted to be able to syncronize calendars with all the available booking platforms like *Airbnb* and *Booking.com*. Users also had to be able to schedule appointments for all of the complex ammenities like spa, restaurants and activities.
 
-SIWA is a digital logbook for skydivers where jumps can be documented. Location, date, height, free fall time, equipment and other details can be stored. It also supports other divers to sign your jump to make it official. Also, users may analize personal stats like how long have you fallen, for how many feet, favorite equipment, how many emergency deploys have been made and personal license.
+After talking with the client, I designed a complete solution, including Backend, Admin Panel, Client WebApp and Apartment Owner App. I set a budget acording to the company's resources and succesfully negotiated with the client to reach an agreement and the budget got accepted.
 
-SIWA was my first published app, I later sold IT to a skydiving site so I could focus on the next challenge.
+For this solution, I used NodeJS, Express, PostgreSQL, React and React Native. This time, the backend had to be a bit more complex since it had to automatically sync with other platforms at specific time intervals, so I had to implement a job scheduler library called node-cron, to execute syncs at a set time intervals.
+
+I really enjoyed working directly with the client because he only had a vague idea of what he needed, so we worked together to assemble a solution for a problem that was not completely clear at the beginning. I managed to create a friendly and trusting relationship with the client so he would continue to hire the company for future projects.
+

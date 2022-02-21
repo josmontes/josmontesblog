@@ -4,7 +4,7 @@ module.exports = {
   url: 'http://www.josmontes.dev/',
   pathPrefix: '/',
   title: 'Jos Montes',
-  subtitle: 'This is my personal portfolio page where I sometimes post about my projects.',
+  subtitle: 'This is my personal blog where I sometimes post about my projects.',
   copyright: 'Jos Montes. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 3,
@@ -23,12 +23,12 @@ module.exports = {
   author: {
     name: 'Jos Montes',
     photo: `logo.png`,
-    bio: 'This is my personal portfolio page where I sometimes post about my projects.',
+    bio: 'This is my personal blog where I sometimes post about my projects.',
     contacts: {
-      email: 'jo.montese@gmail.dev',
-      twitter: 'https://twitter.com/josmontese',
+      email: 'jo.montese@gmail.com',
+      twitter: 'josmontese',
       linkedin: 'https://www.linkedin.com/in/jose-andres-montes/',
-      instagram: 'https://www.instagram.com/josmontese',
+      instagram: 'josmontese',
     }
   }
 };

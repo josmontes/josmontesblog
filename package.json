@@ -1,7 +1,7 @@
 {
   "version": "3.0.3",
   "name": "josmontesblog",
-  "description": "My personal portfolio",
+  "description": "My personal blog",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
