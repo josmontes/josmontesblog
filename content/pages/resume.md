@@ -26,8 +26,8 @@ socialImage: "/media/skylogs.png"
 
 ## TECHNICAL SKILLS
 | Area | Skills |
-| Web Development | HTML, CSS, SCSS, JavaScript, React, React Native, Redux, Angular, Material UI, Bootstrap, TailwindCSS, styled-components |
 | --- | --- |
+| Web Development | HTML, CSS, SCSS, JavaScript, React, React Native, Redux, Angular, Material UI, Bootstrap, TailwindCSS, styled-components |
 | Testing | React Testing Library, Jest, Enzyme |
 | Backend | NodeJS, Express, Sequelize, Python, Flask, FastAPI, SQLAlchemy, Passport, JWT |
 | Databases | PostgreSQL, MySQL, SQLite, MongoDb |
