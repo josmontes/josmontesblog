@@ -25,15 +25,16 @@ socialImage: "/media/skylogs.png"
 - Skilled in understanding functional specifications and developing creative solutions to meet business requirements.
 
 ## TECHNICAL SKILLS
-
-| Web Development | HTML, CSS, SCSS, JavaScript, React, React Native, Redux, Angular, Material UI, Bootstrap |
+| Area | Skills |
+| Web Development | HTML, CSS, SCSS, JavaScript, React, React Native, Redux, Angular, Material UI, Bootstrap, TailwindCSS, styled-components |
 | --- | --- |
-| Testing | React Testing Library, Jest, Enzyme, Supertest |
+| Testing | React Testing Library, Jest, Enzyme |
 | Backend | NodeJS, Express, Sequelize, Python, Flask, FastAPI, SQLAlchemy, Passport, JWT |
 | Databases | PostgreSQL, MySQL, SQLite, MongoDb |
-| Tools | GIT, Postman, NPM, APIdocs, expo, GitHub, Jenkins, Docker |
+| Tools | web3, ethers, GIT, Postman, NPM, APIdocs, Expo, GitHub, Jenkins, Docker |
 | IDE | Visual Studio Code, Sublime 3, Notepad++ |
 | Debugging tools | JS Fiddle, Chrome Developer Tools, IE Developer Tools, React Developer Tools, Redux Dev Tools |
+| Other | Python, Solidity, C++ |
 
 ## WORK EXPERIENCE
 
